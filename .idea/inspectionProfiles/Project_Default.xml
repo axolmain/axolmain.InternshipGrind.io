@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PWF.TeamActivities.students.students_dict" />
+          <option value="FunProjects.messaround.true_up_calcu.i" />
+          <option value="FunProjects.messaround.school_project.bill_lines" />
+          <option value="FunProjects.messaround.school_project.line" />
+          <option value="FunProjects.messaround.school_project.kwh_2021" />
+          <option value="FunProjects.messaround.school_project.total_cost" />
+          <option value="FunProjects.messaround.school_project.*" />
+          <option value="OptimizeLife.build_list_of_songs.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
